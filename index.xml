@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello, I&#39;m Saku</title>
+    <title>imsaku.com</title>
     <link>https://imsaku.com/</link>
-    <description>Recent content on Hello, I&#39;m Saku</description>
+    <description>Recent content on imsaku.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
 	<atom:link href="https://imsaku.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://imsaku.com/about-me/</link>
+      <pubDate>Sat, 15 Aug 2020 17:33:05 +0900</pubDate>
+      
+      <guid>https://imsaku.com/about-me/</guid>
+      <description>Yusaku Tanaka
+Android App Developer in Japan
+Favorite  Android Kotlin League of Legends  </description>
+    </item>
     
   </channel>
 </rss>
