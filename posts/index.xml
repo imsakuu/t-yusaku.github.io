@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on imsaku.com</title>
+		<link>https://imsaku.com/posts/</link>
+		<description>Recent content in Posts on imsaku.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ja</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 15 Aug 2020 20:46:41 +0900</lastBuildDate>
+		<atom:link href="https://imsaku.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>GitHub PagesとHugoでブログを作った</title>
+			<link>https://imsaku.com/posts/first-post/</link>
+			<pubDate>Sat, 15 Aug 2020 20:46:41 +0900</pubDate>
+			
+			<guid>https://imsaku.com/posts/first-post/</guid>
+			<description>ブログを作った 特に理由はないけれど、思い立ったが吉日。ブログを作ってみることにした。
+何を書いていくかはさっぱり決まっていない。このエントリを書くのでさえ、何を書こうか頭を悩ませているような状態だ。
+とりあえず、AndroidやKotlinを中心に自分が興味のあることを書いていけたらいいかなと思っている。
+Hugo 素敵なテーマがたくさんあったことと、導入からビルドまでの手軽さが気に入って使ってみることにした。 今日触り初めて、そのまま公開してしまったのでこれからじっくり向き合っていく。
+今は、このテーマに頼りっきりだが、ゆくゆくは機能拡張やメンテナンスをしていきたい。
+GitHub Pages 使ってみたかったから。それだけの理由でホスティングはGitHub Pagesを使うことにした。
+いくらかの制約はあるが、ひっそりとブログをやっていく分にはきっと十分だと思う。
+ひとまず、Hugoでビルドした./publicをgithub.ioにpushしているが、今後はGitHub Actionsで自動デプロイできるようにしたい。
+今後 せっかく作ったブログなので、投稿を続けていきたいし、メンテナンスを通して少しでもWebの技術を学べたらと思う。
+2つの目標を立てて、今回は終わりにしたい。
+ 次の記事を書く GitHub ActionsでCI/CDできるようにする  それではまた。</description>
+			<content type="html"><![CDATA[<h2 id="ブログを作った">ブログを作った</h2>
+<p>特に理由はないけれど、思い立ったが吉日。ブログを作ってみることにした。<br>
+何を書いていくかはさっぱり決まっていない。このエントリを書くのでさえ、何を書こうか頭を悩ませているような状態だ。<br>
+とりあえず、AndroidやKotlinを中心に自分が興味のあることを書いていけたらいいかなと思っている。</p>
+<h2 id="hugo">Hugo</h2>
+<p>素敵なテーマがたくさんあったことと、導入からビルドまでの手軽さが気に入って使ってみることにした。  今日触り初めて、そのまま公開してしまったのでこれからじっくり向き合っていく。<br>
+今は、<a href="https://themes.gohugo.io/hermit/">このテーマ</a>に頼りっきりだが、ゆくゆくは機能拡張やメンテナンスをしていきたい。</p>
+<h2 id="github-pages">GitHub Pages</h2>
+<p>使ってみたかったから。それだけの理由でホスティングはGitHub Pagesを使うことにした。<br>
+いくらかの制約はあるが、ひっそりとブログをやっていく分にはきっと十分だと思う。</p>
+<p>ひとまず、Hugoでビルドした<code>./public</code>をgithub.ioにpushしているが、今後はGitHub Actionsで自動デプロイできるようにしたい。</p>
+<h2 id="今後">今後</h2>
+<p>せっかく作ったブログなので、投稿を続けていきたいし、メンテナンスを通して少しでもWebの技術を学べたらと思う。<br>
+2つの目標を立てて、今回は終わりにしたい。</p>
+<ul>
+<li>次の記事を書く</li>
+<li>GitHub ActionsでCI/CDできるようにする</li>
+</ul>
+<p>それではまた。</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
