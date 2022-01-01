@@ -6,10 +6,6 @@
     <description>Recent content in Tags on imsaku.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    
-	<atom:link href="https://imsaku.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://imsaku.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

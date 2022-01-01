@@ -6,31 +6,7 @@
     <description>Recent content on imsaku.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 20:46:41 +0900</lastBuildDate>
-    
-	<atom:link href="https://imsaku.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>GitHub PagesとHugoでブログを作った</title>
-      <link>https://imsaku.com/posts/first-post/</link>
-      <pubDate>Sat, 15 Aug 2020 20:46:41 +0900</pubDate>
-      
-      <guid>https://imsaku.com/posts/first-post/</guid>
-      <description>ブログを作った 特に理由はないけれど、思い立ったが吉日。ブログを作ってみることにした。
-何を書いていくかはさっぱり決まっていない。このエントリを書くのでさえ、何を書こうか頭を悩ませているような状態だ。
-とりあえず、AndroidやKotlinを中心に自分が興味のあることを書いていけたらいいかなと思っている。
-Hugo 素敵なテーマがたくさんあったことと、導入からビルドまでの手軽さが気に入って使ってみることにした。 今日触り初めて、そのまま公開してしまったのでこれからじっくり向き合っていく。
-今は、このテーマに頼りっきりだが、ゆくゆくは機能拡張やメンテナンスをしていきたい。
-GitHub Pages 使ってみたかったから。それだけの理由でホスティングはGitHub Pagesを使うことにした。
-いくらかの制約はあるが、ひっそりとブログをやっていく分にはきっと十分だと思う。
-ひとまず、Hugoでビルドした./publicをgithub.ioにpushしているが、今後はGitHub Actionsで自動デプロイできるようにしたい。
-今後 せっかく作ったブログなので、投稿を続けていきたいし、メンテナンスを通して少しでもWebの技術を学べたらと思う。
-2つの目標を立てて、今回は終わりにしたい。
- 次の記事を書く GitHub ActionsでCI/CDできるようにする  それではまた。</description>
-    </item>
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://imsaku.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://imsaku.com/about-me/</link>
@@ -38,8 +14,8 @@ GitHub Pages 使ってみたかったから。それだけの理由でホステ
       
       <guid>https://imsaku.com/about-me/</guid>
       <description>Yusaku Tanaka
-Android App Developer in Japan
-Favorite  Android Kotlin League of Legends  </description>
+Android App Developer
+Favorite  Development  Android Kotlin   Gaming  League of Legends VALORANT    </description>
     </item>
     
   </channel>
