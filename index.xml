@@ -6,7 +6,33 @@
     <description>Recent content on imsaku.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://imsaku.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 11:51:53 +0900</lastBuildDate><atom:link href="https://imsaku.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021年のふりかえり</title>
+      <link>https://imsaku.com/posts/20220101/</link>
+      <pubDate>Sat, 01 Jan 2022 11:51:53 +0900</pubDate>
+      
+      <guid>https://imsaku.com/posts/20220101/</guid>
+      <description>あけましておめでとうございます🎉
+2021年をふりかえって 仕事 5月で現職2年目を迎えた。内定をもらったのが2020年4月、これは福岡に緊急事態宣言が発令されるかどうかという時期で、転職を機にオフィス近くに引っ越したものの入社初日からフルリモートワークとなり、現在も自宅で仕事をしている。
+変わらずAndroidエンジニアとして働いていて、主にAndroid Enterpriseの領域に携わっている。
+プライベート 特別なにかをやったというわけではないけれど、DroidKaigi 2021の公式アプリにPull-Requestを出したり、Android Wagashiに参加したりといった活動ができたのはよかった。
+こういったコミュニティを主催・運営して学ぶ機会を与えてくれている方たちにはとても感謝していて、今後何かしらの形で貢献したい🙏
+生活と健康 心身ともに不調な時期が多かった。外出自粛、1K一人暮らし、フルリモートワークという組み合わせにうまく適応できず、徐々に調子を崩していった。2020年頃はリモートワーク最高！！と思っていたので、自分がこの生活に適応できなかったという事実はショックだった。
+2020年中頃から患っている持病も悪化してしまい、いよいよ限界かなというところで11月に実家へ引っ越した。ありがたいことに実家はとても快適で、家族との会話や健康的な食事などもあって調子を取り戻しつつある。福岡市中心部に比べると利便性は圧倒的に劣るけれど、住み慣れた実家なので今のところ困ることはない。
+運動不足と筋力不足の解消のためにジムへ通おうと思っていて、1ヶ月ほど前から自宅で自重トレーニングを始めた。
+2022年の目標 昨年は不調続きだったので健康を取り戻しつつAndroidアプリ開発やっていくぞという気持ち。
+ブログ
+1か月に1本記事を書く。
+個人開発
+Jetpack Composeでアプリを作る。
+健康
+週2回以上運動する。
+体重を4kg落とす。
+今年もよろしくお願いします🙇‍♂️</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://imsaku.com/about-me/</link>
